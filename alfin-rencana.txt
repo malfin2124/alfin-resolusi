@@ -1,0 +1,6 @@
+Rencana
+- Belajar Android
+- Belajar Javascript
+- Belajar CI
+- Belajar Slime
+- Belajar REST API
