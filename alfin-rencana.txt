@@ -4,3 +4,4 @@ Rencana
 - Belajar CI
 - Belajar Slime
 - Belajar REST API
+- Belajar CRUD dasar
