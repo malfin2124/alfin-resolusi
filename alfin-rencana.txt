@@ -1,0 +1,4 @@
+Rencana
+- Belajar Android
+- Belajar Javascript
+- Belajar CI
