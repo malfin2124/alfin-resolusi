@@ -1,5 +1,6 @@
 alfin Resolusi
 - Berdoa
 - Belajar
-- Belajar
-- Belajar
+- Berdoa
+- Berdoa
+- Belajar CI
