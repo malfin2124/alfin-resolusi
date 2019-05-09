@@ -1,2 +1,8 @@
 User 2:
-User ini hanya bisa mengakses data barang, ruangan, tipe
+User ini hanya bisa mengakses :
+- data barang
+- ruangan
+- tipe
+- laporan
+- barang baru
+- barang rusak
